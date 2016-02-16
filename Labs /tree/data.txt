@@ -1,0 +1,35 @@
+# Students of the Force
+#
+# A list of Jedi and Sith characters and their teachers from the Star Wars
+# universe. The list is ordered, such that every line with a teacher, comes
+# after a line where that teacher is a student, with the exception of
+# 'Unidentified'.
+#
+N Kata Del Gormo,Unidentified
+Yoda,N Kata Del Gormo
+Thame Cerulian,Yoda
+Dooku,Thame Cerulian
+Mace Windu,Yoda
+Ikrit,Yoda
+Qui-Gon Jinn,Dooku
+Obi-Wan Kenobi,Qui-Gon Jinn
+Darth Vader,Obi-Wan Kenobi
+Luke Skywalker,Obi-Wan Kenobi
+Leia Organa Solo,Luke Skywalker
+Kyle Katarn,Luke Skywalker
+Kirana Ti,Luke Skywalker
+Allana Solo,Leia Organa Solo
+Cilghal,Luke Skywalker
+Tekli,Cilghal
+Darth Tenebrous,Unidentified
+Darth Plagueis,Darth Tenebrous
+Palpatine,Darth Plagueis
+Darth Maul,Palpatine
+Mara Jade Skywalker,Palpatine
+Lumiya,Darth Vader
+Jacen Solo,Lumiya
+Carnor Jax,Lumiya
+Asajj Ventress,Dooku
+Komari Vosa,Dooku
+Ahsoka Tano,Darth Vader
+Jaina Solo Fel,Mara Jade Skywalker
